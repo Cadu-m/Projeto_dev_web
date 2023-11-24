@@ -2,7 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: Arial, sans-serif;
-    background-color: rgb(120, 121, 122);
+    background-color: whitesmoke;
 }
 header {
     position: fixed;
@@ -71,12 +71,12 @@ nav {
 }
 
 .nome{
-    color: white;
+    color: black;
     font-size: 36px;
 }
 
 .desc{
-    color: red;
+    color: black;
     font-size: 22px;
 }
 
